@@ -6,6 +6,6 @@ Créez un nouveau dossier pour votre projet, naviguez dedans via le terminal et 
 
     npm install -g @angular/cli
     
-Ensuite, pour créer le projet Anguler, entrez : 
+Ensuite, pour créer le projet Angular, entrez : 
 
     ng new notes-frontend --style=scss --routing=true --skip-tests
